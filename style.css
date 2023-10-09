@@ -1,0 +1,39 @@
+
+.imagenppal {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./hawaii.jpg');
+    background-position: center center;
+    background-size: cover;
+    padding: 20%;
+    margin: 0%;
+    margin: auto;
+    box-sizing: content-box;
+    width: auto;
+}
+
+.imagenppal h5{
+    position: absolute;
+    top: 43%;
+    right: 5%;
+}
+.imagenppal p{
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    right: 5%;
+}
+
+.imagenppal .b1{
+    position: absolute;
+    bottom:21%;
+    right: 19%;
+    height: 55px;
+    width: 200px;
+}
+
+.imagenppal .b2{
+    position: absolute;
+    bottom:21%;
+    right: 5%;
+    height: 55px;
+    width: 200px;
+}
